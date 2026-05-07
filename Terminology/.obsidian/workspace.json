@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "right": {
     "id": "f0503eda4f158ed1",
@@ -198,8 +199,12 @@
   },
   "active": "d798e9c78659384c",
   "lastOpenFiles": [
-    "Kernel.md",
     "finals/OSSA.md",
+    "Kernel.md",
+    "Images/Pasted image 20260507121818.png",
+    "Images/Pasted image 20260507120515.png",
+    "Images/Pasted image 20260507120413.png",
+    "Images/Pasted image 20260507120256.png",
     "Images/Pasted image 20260418215722.png",
     "Images/Pasted image 20260507065615.png",
     "git.md",
