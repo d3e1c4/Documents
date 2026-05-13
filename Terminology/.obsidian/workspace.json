@@ -8,35 +8,62 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee5c2cb187965542",
+            "id": "b650ee375659329c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finals/OSSA.md",
+                "file": "SPA (Single Page Application).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OSSA"
+              "title": "SPA (Single Page Application)"
             }
           },
           {
-            "id": "d798e9c78659384c",
+            "id": "a862b41f6adab3d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finals/OSSA.md",
+                "file": "Untitled 1.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "d48e864fcca69add",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OSSA"
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "7c97457c857de636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "f0503eda4f158ed1",
@@ -197,29 +223,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "d798e9c78659384c",
+  "active": "b650ee375659329c",
   "lastOpenFiles": [
-    "finals/OSSA.md",
-    "Kernel.md",
-    "Images/Pasted image 20260507121818.png",
+    "Y2S2.md",
+    "Untitled.md",
+    "finals_ossa/Process Synchronization.md",
+    "Untitled 1.md",
+    "finals_ossa/Main Memory.md",
+    "Library.md",
+    "finals_ossa/Hard Disk Scheduling.md",
+    "finals_ossa/Deadlock.md",
+    "finals_ossa/File-system Handling.md",
+    "SPA (Single Page Application).md",
+    "Framework.md",
+    "finals_ossa/OSSA.md",
+    "Images/Pasted image 20260508110008.png",
+    "Images/Pasted image 20260508105931.png",
+    "Images/Pasted image 20260508105840.png",
     "Images/Pasted image 20260507120515.png",
     "Images/Pasted image 20260507120413.png",
     "Images/Pasted image 20260507120256.png",
-    "Images/Pasted image 20260418215722.png",
     "Images/Pasted image 20260507065615.png",
+    "Images/Pasted image 20260418215722.png",
+    "finals_ossa/Concurrent Execution.md",
+    "Kernel.md",
+    "Images/Pasted image 20260507121818.png",
     "git.md",
-    "finals",
-    "Untitled.md",
+    "finals_ossa",
     "Internet",
     "Internet/Web Application.md",
     "Internet/Web Page.md",
     "Web Pages.md",
     "[[SPA.md",
     "**SPA**.md",
-    "SPA (Single Page Application).md",
     "Internet/Web Site.md",
-    "Library.md",
-    "Framework.md",
     "API.md",
     "Images/Pasted image 20260418215633.png",
     "Images",

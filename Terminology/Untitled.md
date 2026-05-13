@@ -1,3 +1,16 @@
+client
+Server
+
+Frontend Developmentn (client side)
+Frontend Has Two Broad Areas
+- UI / UX Design
+- Frontend Engineering
+
+Backend (server side)
+
+The Frontend Technology Stack
+
+
 JSX (JavaScript XML)
 
 React Components
